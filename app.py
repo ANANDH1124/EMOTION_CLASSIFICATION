@@ -1,6 +1,4 @@
 
-pip install tensorflow
-pip install opencv-python
 
 
 import streamlit as st
